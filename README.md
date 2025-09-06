@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me https://www.behance.net/albarbosa or https://www.linkedin.com/in/aline-barbosa-da-silva-4a7778102/
+- 📫 How to reach me https://www.linkedin.com/in/abarbosas
 
 <!---
 albarbsilva/albarbsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
