@@ -3,7 +3,7 @@
 **`Desenvolvedora Python Jr`**
 
 Me chamo Aline Barbosa, tenho 28 anos, sou formada em Design Gráfico pela Faculdade Méliès e estou em transição de carreira.
-Atualmente, estou fazendo cursos relacionados a Python.<br> Caso tenha interesse em ver alguns dos meus trabalhos como designer é só acessar o meu [Behance](https://www.behance.net/albarbosa).
+Atualmente, estou fazendo cursos relacionados a Python mas tenho conhecimento básico em HTML, CSS e JS.<br> Caso tenha interesse em ver alguns dos meus trabalhos como designer é só acessar o meu [Behance](https://www.behance.net/albarbosa).
 
 ---
 
